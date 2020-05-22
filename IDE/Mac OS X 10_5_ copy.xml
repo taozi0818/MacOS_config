@@ -1,0 +1,25 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="CodeHistoryMiningPopup">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="CodeHistoryMiningRunScript">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="shift meta back_quote" />
+  </action>
+</keymap>
